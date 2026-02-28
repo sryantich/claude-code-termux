@@ -38,6 +38,12 @@ For more installation options, uninstall steps, and troubleshooting, see the [se
     winget install Anthropic.ClaudeCode
     ```
 
+    **Termux (Android):**
+    ```bash
+    curl -fsSL https://raw.githubusercontent.com/sryantich/claude-code-termux/main/scripts/install-termux.sh | bash
+    ```
+    > Requires [Termux](https://termux.dev) from F-Droid. See the [Termux setup guide](./docs/termux-setup.md) for detailed instructions, configuration, and troubleshooting.
+
     **NPM (Deprecated):**
     ```bash
     npm install -g @anthropic-ai/claude-code
