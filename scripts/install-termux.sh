@@ -3,7 +3,7 @@
 # This script installs Claude Code and its dependencies in a Termux environment.
 #
 # Usage:
-#   curl -fsSL https://raw.githubusercontent.com/<owner>/claude-code-termux/main/scripts/install-termux.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/sryantich/claude-code-termux/main/scripts/install-termux.sh | bash
 #   -- or --
 #   bash scripts/install-termux.sh
 #
